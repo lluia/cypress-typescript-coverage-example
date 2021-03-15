@@ -2,7 +2,7 @@
   "name": "cypress-typescript-code-coverage-example",
   "version": "0.1.0",
   "dependencies": {
-    "@types/styled-components": "4.4.3",
+    "@types/styled-components": "5.1.9",
     "react": "16.14.0",
     "react-dom": "16.14.0"
   },
@@ -33,7 +33,7 @@
     "istanbul-lib-coverage": "2.0.5",
     "nyc": "14.1.1",
     "source-map-support": "0.5.19",
-    "styled-components": "4.4.1",
+    "styled-components": "5.2.1",
     "ts-node": "8.10.2",
     "typescript": "3.9.9",
     "webpack": "4.46.0",
